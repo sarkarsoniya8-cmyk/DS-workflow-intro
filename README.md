@@ -1,4 +1,4 @@
-# DS-workflow-intro# DS-workflow-intro
+# DS-workflow-intro
 
 ## Project Overview
 This project introduces the basics of Data Science and the standard Data Science lifecycle. I researched what Data Science is, explored a beginner-friendly dataset (Iris), and documented my findings in this repository.
